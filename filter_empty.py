@@ -9,7 +9,7 @@ def remove_empty_lines(file_path):
 
 
 def main():
-    file_path = "C:/Users/Veronika/Desktop/ху/1.txt"
+    file_path = "C:/Users/Vlad/Desktop/ху/1.txt"
     remove_empty_lines(file_path)
 
 if __name__ == '__main__':
